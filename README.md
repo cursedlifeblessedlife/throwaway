@@ -1,2 +1,2 @@
 # throwaway
-A Repository filled with an amalgam of Deprecated Throwaway Projects over the years.
+A repository filled with an amalgam of deprecated projects over the years.
