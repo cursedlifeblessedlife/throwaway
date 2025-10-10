@@ -25,7 +25,7 @@
 
     ```bash
     pip install pygame
-    pip install --user pybooru
+    pip install pybooru
     ```
 
 3. **Run the Program**:
